@@ -1,0 +1,15 @@
+name: common_shimmer
+description: Simple shimmers.
+version: 0.0.2
+repository: https://github.com/dev-haind/common_shimmer
+
+environment:
+  sdk: '>=2.17.0 <4.0.0'
+  flutter: '>=1.17.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  lints: ^5.0.0
